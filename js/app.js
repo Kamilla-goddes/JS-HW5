@@ -91,3 +91,5 @@ switch (operator) {
     default:
         console.log("Невідомо");
 }
+
+
